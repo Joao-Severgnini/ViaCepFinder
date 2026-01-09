@@ -1,0 +1,24 @@
+[
+  {
+    "postalCode": "95678-050",
+    "street": "Rua Faustino Rissi",
+    "complement": "",
+    "neighborhood": "Várzea Grande Vila do Sol",
+    "city": "Gramado",
+    "stateCode": "RS",
+    "state": "Rio Grande do Sul",
+    "region": "Sul",
+    "areaCode": "54"
+  },
+  {
+    "postalCode": "01001-000",
+    "street": "Praça da Sé",
+    "complement": "lado ímpar",
+    "neighborhood": "Sé",
+    "city": "São Paulo",
+    "stateCode": "SP",
+    "state": "São Paulo",
+    "region": "Sudeste",
+    "areaCode": "11"
+  }
+]
